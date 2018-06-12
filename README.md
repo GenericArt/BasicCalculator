@@ -1,3 +1,3 @@
 # BasicCalculator
 
-Just learning about C++. 
+Just learning the basuc of C++ and QT. 
