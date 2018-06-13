@@ -32,3 +32,8 @@ HEADERS += \
 
 FORMS += \
         mainwindow.ui
+
+#qmlfiles.files = QML/
+#qmlfiles.path = $$OUT_PWD/release/QML
+
+#INSTALLS += qmlfiles
